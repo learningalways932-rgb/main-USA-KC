@@ -183,7 +183,7 @@ def _dark_layout(fig, xaxis_title, yaxis_title, extra_xaxis=None, height=500):
 # ── Header ─────────────────────────────────────────────────────────────────────
 st.markdown("""
 <div style='text-align:center; padding: 28px 0 10px 0;'>
-  <div style='font-family:"DM Serif Display",serif; font-size:42px; color:#3eafbd; letter-spacing:-1px;'>🇺🇸 USA Sales Report</div>
+  <div style='font-family:"DM Serif Display",serif; font-size:42px; color:#3eafbd; letter-spacing:-1px;'>USA Sales Report</div>
   <div style='font-size:13px; color:#6ec6d0; letter-spacing:3px; text-transform:uppercase; margin-top:6px; font-weight:500;'>Comprehensive Sales Analytics Dashboard</div>
 </div>
 <hr style='border:none; border-top:1px solid rgba(62,175,189,0.2); margin:18px 0;'>
